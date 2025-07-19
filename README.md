@@ -34,7 +34,8 @@ The system uses a KNN model with cosine similarity to generate recommendations b
 - **Example Output**: For 'Grocery Pack', the system might recommend 'Organic Fruits' with a similarity score of 0.54.
 - **Flowchart**: See the end-to-end process below.
 
-![Project Flowchart](docs/flowchart
+![Flow Chart](https://github.com/Abish-gupta/ai-recommendation-system-quick-commerce/blob/main/Flow%20chart.png)
+
 - **PDF Report**: For a detailed walkthrough, including methodology, results, and conclusions, check `project_report.pdf`.
 - **Conclusion Summary**: This project showcases practical AI application, improving e-commerce efficiency. It highlights skills in data handling and ML, suitable for remote automation roles.
 
